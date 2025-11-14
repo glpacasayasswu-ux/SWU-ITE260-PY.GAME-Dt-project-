@@ -1,4 +1,4 @@
-# SWU-ITE260-PY.GAME-Dt-project-
+# Word Guess Game
 
 Create DT project using Python Code 
 
